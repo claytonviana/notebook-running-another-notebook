@@ -275,7 +275,7 @@ A disadvantage compared to using scripts in traditional programming mode is that
 
 That's all! We've all the steps to demonstrate the execution of a notebook through another notebook jupyter.
 
-**Jupyter Notebooks include in the project:**  
+**Jupyter Notebooks included in the project:**  
 
 [Notebook-Main](Notebook-Main.ipynb)  
 [Script-Notebook1](Script-Notebook1.ipynb)  
